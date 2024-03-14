@@ -5,7 +5,7 @@ const Tours = () => {
     return (
         <div className="container">
             <div>
-                <h2 className="title">Plan A Tour</h2>
+                <h2 className="title">IRCTC Tours</h2>
             </div>
 
             <StateFilter />
